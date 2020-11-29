@@ -16,3 +16,5 @@ javamelody:
 
     # to change the default "/monitoring" path
     #monitoring-path: /admin/performance
+    
+    rum-enabled: true
